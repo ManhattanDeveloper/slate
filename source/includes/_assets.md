@@ -1,6 +1,6 @@
 # Assets
 
-## Get Account Balance By ID
+## Get Account Balance By ID (coming soon)
 
 ```shell
 curl "http://neoapi.net/v1/neo/asset/getBalanceById?asset_id=AS2H3RUV9fyHbzAFCfsrxkNMZ511rW7537"

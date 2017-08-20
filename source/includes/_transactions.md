@@ -29,4 +29,4 @@ curl "http://neoapi.net/v1/neo/asset/getBalanceById?asset_id=AS2H3RUV9fyHbzAFCfs
 
 This endpoint returns the asset ID (hash) of the latest block on the chain.
 
-## Get Transactions By Account
+## Get Transactions By Account (coming soon)

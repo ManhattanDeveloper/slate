@@ -11,9 +11,9 @@ toc_footers:
 includes:
   - introduction
   - blocks
-  - assets
+  - assets  
   - transactions
-  - errors
+
 
 
 search: true
